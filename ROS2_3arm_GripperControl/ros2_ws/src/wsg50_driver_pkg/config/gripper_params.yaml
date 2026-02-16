@@ -1,0 +1,4 @@
+wsg50_gripper_node:
+  ros__parameters:
+    ip: "192.168.1.20"
+    port: 1000
